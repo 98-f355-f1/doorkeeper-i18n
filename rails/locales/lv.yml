@@ -3,6 +3,7 @@ lv:
     attributes:
       doorkeeper/application:
         name: 'Nosaukums'
+        title: 'Nosaukums'
         redirect_uri: 'Redirect URI'
         scopes: 'Filtri'
         confidential: 'Slapešanās'        
@@ -38,6 +39,7 @@ lv:
         scopes: 'Separate scopes with spaces. Leave blank to use the default scopes.'
       edit:
         title: 'Labot applikaciju'
+        name: 'Nosaukums'
       index:
         title: 'Jūsu applikācijas'
         new: 'Jauna applikācija'
