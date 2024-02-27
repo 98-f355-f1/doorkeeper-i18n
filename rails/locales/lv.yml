@@ -2,8 +2,10 @@ lv:
   activerecord:
     attributes:
       doorkeeper/application:
-        name: 'Name'
+        name: 'Nosaukums'
         redirect_uri: 'Redirect URI'
+        scopes: 'Filtri'
+        confidential: 'Slapešanās'        
     errors:
       models:
         doorkeeper/application:
