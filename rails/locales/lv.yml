@@ -42,7 +42,7 @@ lv:
         name: 'Nosaukums'
         application_id: 'UID'
         secret: 'Slapešanās parole'
-        scopes: 'Scopes'
+        scopes: 'Filtri'
         confidential: 'Slapešanās'
         callback_urls: 'Callback urls'
       index:
@@ -59,10 +59,10 @@ lv:
         title: 'Jauna applikācija'
       show:
         title: 'Applikacija: %{name}'
+        name: 'Nosaukums'
         application_id: 'UID'
         secret: 'Slapešanās parole'
-        secret_hashed: 'Slapešanās hashed'
-        scopes: 'Scopes'
+        scopes: 'Filtri'
         confidential: 'Slapešanās'
         callback_urls: 'Callback urls'
         actions: 'Izvelnes'
