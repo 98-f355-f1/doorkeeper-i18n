@@ -40,6 +40,11 @@ lv:
       edit:
         title: 'Labot applikaciju'
         name: 'Nosaukums'
+        application_id: 'UID'
+        secret: 'Slapešanās parole'
+        scopes: 'Scopes'
+        confidential: 'Slapešanās'
+        callback_urls: 'Callback urls'
       index:
         title: 'Jūsu applikācijas'
         new: 'Jauna applikācija'
